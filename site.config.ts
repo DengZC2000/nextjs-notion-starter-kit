@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Dzc's Blog',
+  name: 'Dzc Blog',
   domain: 'www.blog.dzcs.online',
   author: 'Dengzhichao',
 
